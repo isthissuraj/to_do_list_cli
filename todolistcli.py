@@ -45,7 +45,7 @@ def complete(position: int):
 @app.command()
 def show():
     tasks = get_all_todos()
-    console.print("[bold magenta]Todos[/bold magenta]!", "💻")
+    console.print("[bold magenta]Todos[/bold magenta]!", "📝")
 
     table = Table(show_header=True, header_style="bold blue")
     table.add_column("#", style="dim", width=6)
