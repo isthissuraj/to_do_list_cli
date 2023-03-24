@@ -1,6 +1,7 @@
 import typer #here it is used to build this cli tool and rich gives us colorfull texts
 from rich.console import Console #typer alos helps for the commanf line interactions
 from rich.table import Table
+from database import get_all_todos, delete_todo, insert_todo, complete_todo, update_todo
 
 console = Console () # console object 
 
