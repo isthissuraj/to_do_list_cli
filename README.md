@@ -1,5 +1,5 @@
 
-# TODO LIST
+# TODO LIST IN PYTHON 
 
 A simple CLI tool that that helps to make a todo list .
 
