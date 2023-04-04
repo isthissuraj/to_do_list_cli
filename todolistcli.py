@@ -9,7 +9,8 @@ from database import get_all_todos, delete_todo, insert_todo, complete_todo, upd
 text = pyfiglet.figlet_format("TODO LIST")
 colored_art = colored(text, color = "green")
 print(colored_art)
-print("****************************************************************************************")
+
+print("######################################################################################")
 
 console = Console()
 
