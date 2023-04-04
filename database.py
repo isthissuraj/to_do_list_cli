@@ -1,4 +1,4 @@
-import sqlite3
+import sqlite3 #imported database
 from typing import List
 import datetime
 from model import Todo
