@@ -1,6 +1,8 @@
-import datetime
+import datetime #datetime imported
 
 
+
+#models
 class Todo:
     def __init__(self, task, category, 
                  date_added=None, date_completed=None,
