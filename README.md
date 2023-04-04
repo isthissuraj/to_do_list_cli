@@ -6,7 +6,7 @@ A simple CLI tool that that helps to make a todo list .
 
 ## Deployment
 
-To deploy this project run
+Deploy this project using by doing ---
 
 #### to see commands/functions
 ```bash
