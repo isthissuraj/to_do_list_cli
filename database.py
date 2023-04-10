@@ -4,6 +4,7 @@ import datetime
 from model import Todo
 
 conn = sqlite3.connect('todos.db')
+
 c = conn.cursor()
 
 
