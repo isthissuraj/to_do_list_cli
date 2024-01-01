@@ -24,7 +24,7 @@ Deploy this project using by doing ---
 ```
 
 
-## Demo
+## Output Sample here
 
 ### task added
 ![adding task 1](https://user-images.githubusercontent.com/112235622/227479471-87045fcb-4b8b-451d-9227-37cd15d05cac.png)
